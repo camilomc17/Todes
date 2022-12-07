@@ -8,6 +8,8 @@ README.md
 package-lock.json
 .env.backup
 .phpunit.result.cache
+package.json
+composer.json
 Homestead.json
 Homestead.yaml
 auth.json
