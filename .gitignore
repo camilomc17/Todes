@@ -10,6 +10,7 @@ package-lock.json
 .phpunit.result.cache
 package.json
 composer.json
+composer.lock
 Homestead.json
 Homestead.yaml
 auth.json
